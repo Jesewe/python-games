@@ -1,13 +1,24 @@
-### Quiz Game
+# Welcome to the Python Games!
 
-Quiz Game is a quiz game in which the user is asked questions on various topics, and he must give the correct answers. The goal of the game is to score as many points as possible by answering the questions correctly.
+Here you will find many games written in Python that can be used for learning and entertainment.
 
-Various types of questions can be used in the game, such as single-answer questions, multiple-choice questions, questions with correct and incorrect statements, matching questions, etc.
+## List of games
 
-To create a quiz game, you can use a list of questions and answers, as in the examples above, or download them from an external file. The game can have a different level of difficulty depending on the chosen topic or type of questions.
+* [Rock-Paper-Scissors](/Rock-Paper-Scissors/README.MD) - Rock-Paper-Scissors game
+* [Quiz-Game](/Quiz-Game/README.MD) - Quiz game
 
-You can also add a timer to the game so that the user can complete the game in a limited time, which will add additional dynamics and interest.
+## How to launch games
 
-The quiz game can be either simple, for example, for use in training courses or in lessons, or more complex, using more advanced features and capabilities.
+1. Download the game files from the corresponding folder in the repository.
+2. Follow the instructions described in the README file of each game.
 
-A quiz game can be a great way to test users' knowledge on a particular topic and add an additional level of interactivity to various training courses and trainings.
+## How to contribute
+
+1. Make a fork of the repository on GitHub.
+2. Create a branch for your changes.
+3. Make your own changes to the games or add new games.
+4. Create a Pull Request (PR) for your changes.
+
+## Links
+
+* [Python Games Repository](https://github.com/jesewe/python-games )

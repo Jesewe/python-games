@@ -7,6 +7,7 @@ Here you will find many games written in Python that can be used for learning an
 * [Rock-Paper-Scissors](/Rock-Paper-Scissors/README.MD) - Rock-Paper-Scissors game
 * [Quiz-Game](/Quiz-Game/README.MD) - Quiz game
 * [Hangman](/Hangman/README.MD) - Hangman game
+* [Tic-Tac-Toe](/Tic-Tac-Toe/README.MD) - Tic-Tac-Toe game
 
 ## How to launch games
 
